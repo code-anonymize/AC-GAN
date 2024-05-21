@@ -7,7 +7,7 @@ We introduce AC-GAN, a novel generative adversarial network for PPG synthesis wi
 Our basic implementation of AC-GAN is provided in this repository. 
 ![alt](https://github.com/code-anonymize/AC-GAN/blob/master/structure2.8.jpg)
 
-## environment
+## Environment
 python 3.6.6
 
 torch=1.10.2+cu113
@@ -20,7 +20,7 @@ scikit-learn==0.24.2
 
 For more information, please see requirement.txt
 
-## function
+## Function
 
 ``clean_bvp_all``  It provides the denoised raw data from the UBFC dataset.
 
